@@ -10,7 +10,7 @@ Repositori ini merupakan **frontend** dari sistem informasi rumah sakit untuk UA
 - CRUD **Obat**
 - **Pencarian Data** pasien & obat
 - **Error Handling** jika API gagal (dengan tampilan alert)
-- (Planned) Export ke **PDF** dan **Excel**
+
 
 ---
 
