@@ -107,7 +107,6 @@ frontend-uas-230302094/
 ##  Pengujian
 
 - Gunakan Postman atau frontend ini langsung untuk mengetes endpoint
-- Gambar pasien dapat di-upload melalui form
 - Error API akan muncul sebagai **alert merah**
 
 
